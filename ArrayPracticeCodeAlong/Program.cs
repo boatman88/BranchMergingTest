@@ -2,7 +2,7 @@
 
 namespace ArrayPracticeCodeAlong
 {
-    class Program
+    class Program CHANGE TEST
     {
         static void Main(string[] args)
         {
