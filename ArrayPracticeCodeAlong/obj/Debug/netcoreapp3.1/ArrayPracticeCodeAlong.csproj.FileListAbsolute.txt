@@ -1,0 +1,13 @@
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.exe
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.deps.json
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.runtimeconfig.json
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.runtimeconfig.dev.json
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.dll
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\bin\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.pdb
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.csprojAssemblyReference.cache
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.AssemblyInfoInputs.cache
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.AssemblyInfo.cs
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.dll
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.pdb
+C:\Users\Munce\source\repos\ArrayPracticeCodeAlong\ArrayPracticeCodeAlong\obj\Debug\netcoreapp3.1\ArrayPracticeCodeAlong.genruntimeconfig.cache
